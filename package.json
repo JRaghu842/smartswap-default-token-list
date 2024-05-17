@@ -1,5 +1,5 @@
 {
-  "name": "smartswap-default-token-list",
+  "name": "smartswap-default-token-lists",
   "version": "1.0.0",
   "description": "The Uniswap default token list",
   "main": "build/uniswap-default.tokenlist.json",
